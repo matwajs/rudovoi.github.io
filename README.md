@@ -1,2 +1,0 @@
-# rudovoi.github.io
-host
